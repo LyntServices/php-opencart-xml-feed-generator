@@ -365,7 +365,7 @@ class MonkeyDataXmlModel extends XmlModel implements CurrentXmlModelInterface {
         $output = array();
 
         foreach ($results as $result) {
-            $putput[] = array(
+            $output[] = array(
                 'id' => $result["category_id"],
                 'category_name' => $result["name"],
                 'parent_id' => $result["parent_id"]
