@@ -1,9 +1,10 @@
 # Monkey PHP OpenCart XML feed generator
-
 [![Latest Stable Version](https://poser.pugx.org/monkey-data/online-store-xml-feed-generator/v/stable)](https://packagist.org/packages/monkey-data/online-store-xml-feed-generator)
 [![License](https://poser.pugx.org/monkey-data/online-store-xml-feed-generator/license)](https://packagist.org/packages/monkey-data/online-store-xml-feed-generator)
-
 ## Installation Instructions
+
+Note: supported OpenCart versions (1.5.x, 2.0.x, 2.1.x)
+
 1. Download universal module for OpenCart. It is compatible with all released OpenCart versions
 2. Unzip the file with the module and put its content to your online store FTP to folder "/admin"
 Note: In any case, do NOT delete this folder, only add new files!!!
